@@ -15,7 +15,7 @@ namespace DapperRealEstateWebApi.Models.DapperContext
             _connectionString = _configuration.GetConnectionString("LocalDbDapper");
         }
 
-        public IDbConnection createConnection()=> new SqlConnection(_connectionString);
+        public IDbConnection CreateConnection()=> new SqlConnection(_connectionString);
 
         //Yuxarida olan kod asagidaki ile eyni meqsed dasiyir { return } evez edir => bu isare
 
