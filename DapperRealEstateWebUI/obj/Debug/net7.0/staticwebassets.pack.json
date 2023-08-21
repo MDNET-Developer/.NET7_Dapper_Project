@@ -1,0 +1,485 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DapperRealEstateWebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DapperRealEstateWebUI.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\about.html",
+      "PackagePath": "staticwebassets\\EstateTemp\\about.html"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\css\\style-starter.css",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\css\\style-starter.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\404.svg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\404.svg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\Villa1.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\Villa1.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\about.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\about1.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\about1.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\banner.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\client1.png",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\client1.png"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\client2.png",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\client2.png"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\client3.png",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\client3.png"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\client4.png",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\client4.png"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\client5.png",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\client5.png"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\client6.png",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\client6.png"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\down.png",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\down.png"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\l1.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\l1.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\l2.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\l2.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\l3.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\l3.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\l4.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\l4.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\l5.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\l5.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\p1.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\p1.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\p2.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\p3.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\p4.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\p5.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\p5.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\p6.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\p6.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\p7.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\p7.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\p8.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\p8.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\single.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\single.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\stats.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\stats.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\team1.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\team2.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\team3.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\team4.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\team4.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\team5.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\team5.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\team6.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\team6.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\who.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\who.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\images\\who1.jpg",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\images\\who1.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\js\\jquery.countup.js",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\js\\jquery.countup.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\assets\\js\\theme-change.js",
+      "PackagePath": "staticwebassets\\EstateTemp\\assets\\js\\theme-change.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\contact.html",
+      "PackagePath": "staticwebassets\\EstateTemp\\contact.html"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\index.html",
+      "PackagePath": "staticwebassets\\EstateTemp\\index.html"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\listing.html",
+      "PackagePath": "staticwebassets\\EstateTemp\\listing.html"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\property-single.html",
+      "PackagePath": "staticwebassets\\EstateTemp\\property-single.html"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\EstateTemp\\starter-license-W3Layouts.txt",
+      "PackagePath": "staticwebassets\\EstateTemp\\starter-license-W3Layouts.txt"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\MyProjects\\DapperRealEstateWebApi\\DapperRealEstateWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DapperRealEstateWebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DapperRealEstateWebUI.props",
+      "PackagePath": "build\\DapperRealEstateWebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DapperRealEstateWebUI.props",
+      "PackagePath": "buildMultiTargeting\\DapperRealEstateWebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DapperRealEstateWebUI.props",
+      "PackagePath": "buildTransitive\\DapperRealEstateWebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
